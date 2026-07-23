@@ -476,6 +476,24 @@ footer {
   font-size: 0.8rem;
 }
 
+.announcement-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background: linear-gradient(90deg, #2e7d32 0%, #4caf50 100%);
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
 /* Search and Filter Components - Updated for Sidebar */
 .search-box {
   display: flex;
