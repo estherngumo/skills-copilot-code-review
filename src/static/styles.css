@@ -476,6 +476,14 @@ footer {
   font-size: 0.8rem;
 }
 
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 /* Search and Filter Components - Updated for Sidebar */
 .search-box {
   display: flex;
